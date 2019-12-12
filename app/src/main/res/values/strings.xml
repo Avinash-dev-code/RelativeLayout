@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="done">done</string>
+    <string name="close">close</string>
+    <string name="time_05">TIME : 05</string>
+    <string name="score_00">SCORE : 00</string>
+    <string name="_11_64">11+64</string>
+    <string name="_75">=75</string>
+    <string name="_34_45">34+45</string>
+    <string name="answer_sumitted">Answer Sumitted..</string>
+    <string name="move_to_the_next_one">Move to the Next One</string>
+    <string name="next">Next</string>
+</resources>
